@@ -2,6 +2,7 @@
 
 ## Note to grader
 * `MyFirebase.js` has redacted information since it has sensitive information, it is the same page as the one we went over in the Firebase lesson, but will not work straight from GitHub.
+* It's not working, but I figured some code would be better than none.
 
 ## Initializing
 * `npm install`
