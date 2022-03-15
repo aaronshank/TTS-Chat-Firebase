@@ -1,10 +1,15 @@
 # Tech Talent South
 
+## Note to grader
+* `MyFirebase.js` has redacted information since it has sensitive information, it is the same page as the one we went over in the Firebase lesson, but will not work straight from GitHub.
+
 ## Initializing
 * `npm install`
 * `npm install react-router-dom`
 * `npm install firebase`
 * `npm install bootstrap`
+* `npm install react-bootstrap`
+* `npm install react-firebase-hooks`
 
 ## To run
 * `npm start`
@@ -22,14 +27,3 @@
   - Implement user authentication using email and password
   - Style the app to your heart's content
   - Deploy your app to firebase
-
-### My Notes
-* Components
-  * App
-    * Will house everything
-  * Title
-    * Self-titled
-  * Messages
-    * Will hold / display the past messages
-  * MessageForm
-    * Will allow sending of new message
